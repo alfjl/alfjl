@@ -15,7 +15,7 @@ Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [N
 As a deep dive into the C++ STL, I re-coded the **std::stack, std::vector, std::map, std::set** (the last two with a self-written **red-black tree** as the underlying data structure), and some of the helper functions and objects like std::pair, iterators, enable_if, and others.
 <br>
 
-## [3D Game](https://github.com/aenglert42/Strassenbau-Simulator-3000)
+## [3D Game](https://github.com/alfjl/42HN_Strassenbau-Simulator-3000)
 With my fellow 42HN peer [aenglert](https://github.com/aenglert42), I designed and coded a small game, based on the 90s hit **Wolfenstein 3D**. Goal of this project was to learn more about ray-casting.</br>
 </br>
 
