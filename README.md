@@ -11,6 +11,10 @@ Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [N
   
 # Some of my 42HN school projets:
 
+## [Webserver](https://www.rfc-editor.org/rfc/rfc2616)
+As the first 'bigger' C++ project, [nijakow](https://github.com/nijakow), [NL27](https://github.com/NL27) and I developed a webserver that was able to serve a fully static website. The goal was to learn more about the HTTP protocol, Multithreading vs multiplexing and the use of sockets. 
+<br>
+
 ## [C++ STL](https://github.com/alfjl/42HN_ft_containers)
 As a deep dive into the C++ STL, I re-coded the **std::stack, std::vector, std::map, std::set** (the last two with a self-written **red-black tree** as the underlying data structure), and some of the helper functions and objects like std::pair, iterators, enable_if, and others.
 <br>
