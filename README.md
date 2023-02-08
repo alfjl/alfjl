@@ -5,7 +5,7 @@ I'm currently a student at [42 Heilbronn](https://www.42heilbronn.de/en/), worki
 
 # My current project:
 
-## [Full-Stack Website](https://github.com/alfjl/42HN_ft_transcendence_backbone)
+## Full-Stack Website
 Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [NL27](https://github.com/NL27) and [nijakow](https://github.com/nijakow), I'm working on the last project of the 42 Core Curriculum. Goal of this project is to build a **fully functional website** with frontend, backend and database. Users need to run through an authentication process, login and can then play a Pong like game, while chatting with other users, checking out the overall high-score and their opponents profiles.
 <br><br>
   
