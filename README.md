@@ -11,7 +11,7 @@ Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [N
   
 # Some of my 42HN school projets:
 
-## [Webserver](https://www.rfc-editor.org/rfc/rfc2616)
+## [Webserver](https://github.com/alfjl/42HN_webserv)
 As the first 'bigger' C++ project, [nijakow](https://github.com/nijakow), [NL27](https://github.com/NL27) and I developed a webserver that was able to serve a fully static website. The goal was to learn more about the HTTP protocol, multithreading vs multiplexing and the use of sockets. 
 <br>
 
