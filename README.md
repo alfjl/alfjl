@@ -2,6 +2,13 @@
 
 I'm currently a student at [42 Heilbronn](https://www.42heilbronn.de/en/), working hard to complete the 42 Core Curriculum and moving on into the internship phase.
 <br><br>
+So far I've learned and worked with a couple of different languages and technologies.  
+These are the ones I feel most comfortable with:  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,github,linux,stackoverflow,vim,vscode)](https://skillicons.dev)<br><br>
+I have also had some interactions with the following technologies:  
+(some a bit more, and some only briefly)  
+[![My Skills](https://skillicons.dev/icons?i=aws,cmake,md,mysql,nestjs,nginx,postgres,py,raspberrypi,ts,wordpress)](https://skillicons.dev)
+<br><br>
 
 # My current project:
 
