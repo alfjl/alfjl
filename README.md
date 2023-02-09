@@ -7,7 +7,7 @@ These are the ones I feel most comfortable with:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,github,linux,stackoverflow,vim,vscode)](https://skillicons.dev)<br><br>
 I have also had some interactions with the following technologies:  
 (some a bit more, and some only briefly)  
-[![My Skills](https://skillicons.dev/icons?i=aws,cmake,md,mysql,nestjs,nginx,postgres,py,raspberrypi,ts,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,cmake,md,mysql,nestjs,nginx,postgres,py,raspberrypi,ts,wordpress)](https://skillicons.dev)
 <br><br>
 
 # My current project:
