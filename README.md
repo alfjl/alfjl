@@ -9,7 +9,7 @@ I'm currently a student at [42 Heilbronn](https://www.42heilbronn.de/en/), worki
 Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [NL27](https://github.com/NL27) and [nijakow](https://github.com/nijakow), I'm working on the last project of the 42 Core Curriculum. Goal of this project is to build a **fully functional website** with frontend, backend and database. Users need to run through an authentication process, login and can then play a Pong like game, while chatting with other users, checking out the overall high-score and their opponents profiles.
 <br><br>
   
-# Some of my 42HN school projets:
+# Some of my 42HN school projects:
 
 ## [Webserver](https://github.com/alfjl/42HN_webserv)
 As the first 'bigger' C++ project, [nijakow](https://github.com/nijakow), [NL27](https://github.com/NL27) and I developed a webserver that was able to serve a fully static website. The goal was to learn more about the HTTP protocol, multithreading vs multiplexing and the use of sockets. 
