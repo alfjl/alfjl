@@ -13,22 +13,22 @@ I have also had some interactions with the following technologies:
 # My current project:
 
 ## Full-Stack Website
-Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [NL27](https://github.com/NL27) and [nijakow](https://github.com/nijakow), I'm working on the last project of the 42 Core Curriculum. Goal of this project is to build a **fully functional website** with frontend, backend and database. Users need to run through an authentication process, login and can then play a Pong like game, while chatting with other users, checking out the overall high-score and their opponents profiles.
+Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [NL27](https://github.com/NL27) and [nijakow](https://github.com/nijakow), I'm working on the last project of the 42 Core Curriculum. Goal of this project is to build a **fully functional website** with frontend, backend and database. Users need to run through an authentication process, login and can then play a Pong like game, while chatting with other users, checking out the overall high-score and their opponents profiles.<br>[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres,ts)](https://skillicons.dev)
 <br><br>
   
 # Some of my 42HN school projects:
 
 ## [Webserver](https://github.com/alfjl/42HN_webserv)
-As the first 'bigger' C++ project, [nijakow](https://github.com/nijakow), [NL27](https://github.com/NL27) and I developed a webserver that was able to serve a fully static website. The goal was to learn more about the HTTP protocol, multithreading vs multiplexing and the use of sockets. 
+As the first 'bigger' C++ project, [nijakow](https://github.com/nijakow), [NL27](https://github.com/NL27) and I developed a webserver that was able to serve a fully static website. The goal was to learn more about the HTTP protocol, multithreading vs multiplexing and the use of sockets.<br>[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 <br>
 
 ## [C++ STL](https://github.com/alfjl/42HN_ft_containers)
-As a deep dive into the C++ STL, I re-coded the **std::stack, std::vector, std::map, std::set** (the last two with a self-written **red-black tree** as the underlying data structure), and some of the helper functions and objects like std::pair, iterators, enable_if, and others.
+As a deep dive into the C++ STL, I re-coded the **std::stack, std::vector, std::map, std::set** (the last two with a self-written **red-black tree** as the underlying data structure), and some of the helper functions and objects like std::pair, iterators, enable_if, and others.<br>[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 <br>
 
 ## [3D Game](https://github.com/alfjl/42HN_Strassenbau-Simulator-3000)
-With my fellow 42HN peer [aenglert](https://github.com/aenglert42), I designed and coded a small game, based on the 90s hit **Wolfenstein 3D**. Goal of this project was to learn more about ray-casting.</br>
-</br>
+With my fellow 42HN peer [aenglert](https://github.com/aenglert42), I designed and coded a small game, based on the 90s hit **Wolfenstein 3D**. Goal of this project was to learn more about ray-casting.<br>[![My Skills](https://skillicons.dev/icons?i=c,)](https://skillicons.dev)
+<br></br>
 
 ---
 _<p align="right">icons taken from [tandpfun](https://github.com/tandpfun/skill-icons)</p>_
