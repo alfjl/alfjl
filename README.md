@@ -34,7 +34,7 @@ As a deep dive into the C++ STL, I re-coded the **std::stack, std::vector, std::
 With my fellow 42HN peer [aenglert](https://github.com/aenglert42), I designed and coded a small game, based on the 90s hit **Wolfenstein 3D**. Goal of this project was to learn more about ray-casting.<br>[![My Skills](https://skillicons.dev/icons?i=c,)](https://skillicons.dev)
 <br></br>
 
-_<p align="right">icons taken from [tandpfun](https://github.com/tandpfun/skill-icons)</p>_
+__<p align="right">icons taken from [tandpfun](https://github.com/tandpfun/skill-icons)</p>__
 <!--
 **alfjl/alfjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
