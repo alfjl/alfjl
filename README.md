@@ -1,7 +1,7 @@
 # Hello everybody,<br>I'm Alf
 
 I'm currently a student at [42 Heilbronn](https://www.42heilbronn.de/en/), starting to work on my Mastery in the track of Operating Systems.  
-Before, I worked hard to finish the 42 Core Curriculum and interned at [Vector Informatik](https://www.vector.com/int/en/), where the main goal of my team was to push forward the development of a future-proof unit testing model for the Embedded C code implementation of the Ethernet driver of the Infineon Aurix Tricore Gen 2.
+Before, I worked hard to finish the 42 Core Curriculum and interned at [Vector Informatik](https://www.vector.com/int/en/), where the main goal of my team was to push forward the development of a future-proof googleTest unit testing model for the Embedded C code implementation of the Ethernet driver of the Infineon Aurix Tricore Gen 2.
 <br><br>
 So far I've learned and worked with a couple of different languages and technologies.  
 These are the ones I feel most comfortable with:  
