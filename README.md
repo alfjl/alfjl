@@ -8,7 +8,7 @@ These are the ones I feel most comfortable with:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,bash,docker,git,github,linux,stackoverflow,vim,vscode)<br><br>
 I have also had some interactions with the following technologies:  
 (some a bit more, and some only briefly)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,aws,cmake,md,mysql,nestjs,nginx,postgres,py,raspberrypi,ts,wordpress)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,aws,cmake,md,mysql,nestjs,nginx,postgres,py,raspberrypi,svn,ts,wordpress)
 <br><br>
 
 ## My current project:
