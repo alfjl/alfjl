@@ -30,8 +30,7 @@ In this course we cover all the important topics:
 - Understanding the main open-source licenses
 - Setting up and utilizing an Embedded Linux build system
 - Developing and debugging applications on an embedded system
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux)
+<br>![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux)
 <br><br>
 
 
