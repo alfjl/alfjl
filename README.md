@@ -16,20 +16,20 @@ I have also had some interactions with the following technologies:
 
 ### Bootlin training course: Embedded Linux System Development
 
-In the second half of July, I am attending the training course [**Embedded Linux System Development**](https://bootlin.com/training/embedded-linux/) at [Bootlin](https://bootlin.com/). The idea of this training is to empower developers to understand the intricacies of Embedded Linux, and give them enough practical training to be able to "*start a project using embedded Linux, from system building to application development*".
+In the second half of July, I am attending the training course [**Embedded Linux System Development**](https://bootlin.com/training/embedded-linux/) at [Bootlin](https://bootlin.com/). The purpose of this training is to empower developers to understand the intricacies of Embedded Linux, and to provide them with enough practical experience to "*start a project using embedded Linux, from system building to application development*".
 <br>
-In this course we learn all the important topics:
-- architecture of Embedded Linux systems
-- choose, build, setup and use a cross-compilation toolchain
-- understand booting sequence of embedded Linux systems
-- set-up and use U-Boot bootloader
-- select, configure, build and install a Linux kernel version
-- create a foot filesystem from scratch (incl. directories, applications, configuration files, libraries)
-- choose and set-up the main Linux filesystem for block storage devices
-- select, cross-compile and integrate open-source components
-- understand the main open-source licenses
-- set-up and utilize an Embedded Linux build system
-- develop and debug applications on an embedded system
+In this course we cover all the important topics:
+- The architecture of Embedded Linux systems
+- Choose, building, setting up and using a cross-compilation toolchain
+- Understanding the booting sequence of embedded Linux systems
+- Setting up and using the U-Boot bootloader
+- Selecting, configuring, building and installing a Linux kernel version
+- Creating a foot filesystem from scratch (incl. directories, applications, configuration files, libraries)
+- Choosing and setting up the main Linux filesystem for block storage devices
+- Selecting, cross-compiling and integrating open-source components
+- Understanding the main open-source licenses
+- Setting up and utilizing an Embedded Linux build system
+- Developing and debugging applications on an embedded system
 <br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux)
 <br><br>
