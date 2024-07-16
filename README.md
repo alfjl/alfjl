@@ -11,14 +11,36 @@ I have also had some interactions with the following technologies:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,aws,cmake,md,mysql,nestjs,nginx,postgres,py,raspberrypi,svn,ts,wordpress)
 <br><br>
 
+
 ## My current project:
+
+### Bootlin training course: Embedded Linux System Development
+
+In the second half of July, I am attending the training course [**Embedded Linux System Development**](https://bootlin.com/training/embedded-linux/) at [Bootlin](https://bootlin.com/). The idea of this training is to empower developers to understand the intricacies of Embedded Linux, and give them enough practical training to be able to "*start a project using embedded Linux, from system building to application development*".
+<br>
+In this course we learn all the important topics:
+- architecture of Embedded Linux systems
+- choose, build, setup and use a cross-compilation toolchain
+- understand booting sequence of embedded Linux systems
+- set-up and use U-Boot bootloader
+- select, configure, build and install a Linux kernel version
+- create a foot filesystem from scratch (incl. directories, applications, configuration files, libraries)
+- choose and set-up the main Linux filesystem for block storage devices
+- select, cross-compile and integrate open-source components
+- understand the main open-source licenses
+- set-up and utilize an Embedded Linux build system
+- develop and debug applications on an embedded system
+<br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux)
+<br><br>
+
+
+## Some of my 42HN school projects:
 
 ### Full-Stack Website
 
 Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [NL27](https://github.com/NL27) and [nijakow](https://github.com/nijakow), I'm working on the last project of the 42 Core Curriculum. Goal of this project is to build a **fully functional website** with frontend, backend and database. Users need to run through an authentication process, login and can then play a Pong like game, while chatting with other users, checking out the overall high-score and their opponents profiles.<br>![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,postgres,ts)
 <br><br>
-  
-## Some of my 42HN school projects:
 
 ### [Webserver](https://github.com/alfjl/42HN_webserv)
 
