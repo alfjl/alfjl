@@ -8,7 +8,7 @@ These are the ones I feel most comfortable with:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,bash,docker,git,github,jira,linux,stackoverflow,terminal,vim,vscode)<br><br>
 I have also had some interactions with the following technologies:  
 (some a bit more, and some only briefly)  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,aws,cmake,debian,md,mysql,nestjs,nginx,postgres,py,raspberrypi,svn,ts,wordpress)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,aws,cmake,debian,md,mysql,nestjs,nginx,postgres,py,raspberrypi,svn,ts,typeorm,wordpress)
 <br><br>
 
 
@@ -38,7 +38,7 @@ In this course we cover all the important topics:
 
 ### Full-Stack Website
 
-Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [NL27](https://github.com/NL27) and [nijakow](https://github.com/nijakow), I'm working on the last project of the 42 Core Curriculum. Goal of this project is to build a **fully functional website** with frontend, backend and database. Users need to run through an authentication process, login and can then play a Pong like game, while chatting with other users, checking out the overall high-score and their opponents profiles.<br>![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,postgres,ts)
+Together with my fellow 42HN peers [aenglert](https://github.com/aenglert42), [NL27](https://github.com/NL27) and [nijakow](https://github.com/nijakow), I'm working on the last project of the 42 Core Curriculum. Goal of this project is to build a **fully functional website** with frontend, backend and database. Users need to run through an authentication process, login and can then play a Pong like game, while chatting with other users, checking out the overall high-score and their opponents profiles.<br>![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nestjs,postgres,ts,typeorm)
 <br><br>
 
 ### [Webserver](https://github.com/alfjl/42HN_webserv)
