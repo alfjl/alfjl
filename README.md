@@ -5,7 +5,7 @@ Before, I worked hard to finish the 42 Core Curriculum and interned at [Vector I
 <br><br>
 So far I've learned and worked with a couple of different languages and technologies.  
 These are the ones I feel most comfortable with:  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,bash,docker,git,github,jira,linux,stackoverflow,vim,vscode)<br><br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,bash,docker,git,github,jira,linux,stackoverflow,terminal,vim,vscode)<br><br>
 I have also had some interactions with the following technologies:  
 (some a bit more, and some only briefly)  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,aws,cmake,debian,md,mysql,nestjs,nginx,postgres,py,raspberrypi,svn,ts,wordpress)
